@@ -25,7 +25,7 @@
 
 </br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalcimar&layout=donut&theme=default" /></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalcimar&layout=donut&theme=default" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=joaoalcimar&show_icons=true&theme=default&rank_icon=github#gh-light-mode-only" /></a>
 
 
