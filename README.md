@@ -10,7 +10,11 @@
 <span><img height="25px" src="https://cdn.svgporn.com/logos/react.svg"></span>
 <span><img height="25px" src="https://cdn.svgporn.com/logos/docker.svg"></span>
 <span><img height="25px" src="https://cdn.svgporn.com/logos/git.svg"></span>
-<span><img height="25px" src="https://cdn.svgporn.com/logos/rabbitmq.svg"></span>
+<span><img height="15px" src="https://cdn.svgporn.com/logos/rabbitmq.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/cucumber.svg"></span>
+<span><img height="35px" src="https://avatars.githubusercontent.com/u/874086?s=200&v=4"></span>
+<span><img height="45px" src="https://testcontainers.com/images/modules/wiremock-mark.svg"></span>
+<span><img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Mockito_Logo.png"></span>
 
 **About me**
 
